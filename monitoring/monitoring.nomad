@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MIT
+
 # For ACL-enabled Consul Clusters, you need to specify a Consul ACL token down
 # in the `prometheus` task's scrape config.
 

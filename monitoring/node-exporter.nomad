@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MIT
+
 # The Prometheus Node Exporter needs access to the proc filesystem which is not
 # mounted into the exec jail, so it requires the raw_exec driver to run.
 
